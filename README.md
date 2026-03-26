@@ -77,7 +77,7 @@ All visuals are fully cross-filtered. Selecting any value instantly updates the 
 ## 📁 Project Structure
 
 ```
-PowerBI_luento1/
+PowerBI_project/
 │
 ├── PowerBI_project.pbix       # Power BI project file
 ├── dashboard_preview.png      # Dashboard screenshot
