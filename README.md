@@ -1,7 +1,7 @@
 # 📊 Power BI — Data Analysis & Visualization
 ### Internet Sales Dashboard | School Project
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png.png)
 
 > **Myyntitilastot aikavälillä 29.12.2010 – 28.01.2014**
 
